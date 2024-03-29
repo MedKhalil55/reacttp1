@@ -27,7 +27,7 @@ export function Navbar(){
                 Admin
               </a>
               <ul className="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                <li><a className="dropdown-item" href="/admin/products">Productsssss</a></li>
+                <li><a className="dropdown-item" href="/admin/products">Products</a></li>
                 <li><a className="dropdown-item" href="/admin/products/create">Profile</a></li>
                 <li className="dropdown-divider"></li>
                 <li><a className="dropdown-item" href="#">Log out</a></li>
